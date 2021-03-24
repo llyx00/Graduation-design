@@ -4,11 +4,10 @@
 项目时间持续时间：2020.03 - 2020.06
 
 ## 项目描述
-1. 开发环境：JDK1.8.0 、 MySQL 数据库
-2. 开发工具：Eelipse、Navicat for MySQL、WebStorm
-3. 开发语言：java、JSP、CSS
-4. 项目框架：Springboot
-5. 项目简介:
+1. 开发环境：JDK 1.8
+2. 语言：java、HTML、CSS、JS
+3. 工具：Eclipse、Navicat for MySQL、WebStorm
+4. 框架：Sprintboot
 
     本系统主要是针对学生校园生活数据信息而设计的一个工具型系统，主
 要用以辅佐学校来甄别贫困生，给出基于数据意义上的建议。系统分为前后
